@@ -1,0 +1,134 @@
+<div class="forecast-container margin-top">
+  <!-- <div class="row ">
+    <div class="col-md-12 padding-0-12">
+  <div class="panel-group">
+    <div class="panel panel-default panel-border panel-color">
+      <div class="panel-body">
+
+            <div id="collapse1" class="panel-collapse collapse in">
+              <div class="row">
+                <div class="col-md-12 col-sm-12">
+                <div class="block-content  border-left-radius  border-right-radius">
+                  <div class="row-fluid">
+                    <Label class="text-style">Base Year</label>
+                    <p class="number-style">2016</p>
+                  </div>
+                  <div class="row-fluid">
+                    <Label class="text-style">Current Year</label>
+                    <p class="number-style">2017</p>
+                  </div>
+                  <div class="row-fluid">
+                    <Label class="text-style">YTD Date</label>
+                    <p class="number-style">July 2017</p>
+                  </div>
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div> -->
+  <div class="left-column-top ">
+    <div class="m-b-10 row text-center">
+      <div class="col-sm-5ths col-md-5ths col-lg-5ths">
+
+        <input class="common-radio"
+        ng-class="vm.wagesType=='water'?'wages-focus':''"
+         ng-click="vm.clickWages('water')"
+         type="radio" id="water" ng-model="vm.wages" value="water">
+        <label class="fw-xlg fw-water" for="water" ng-class="vm.wagesType=='air'?'button-focus':'btn-primary-default'"  ng-click="vm.clickWages('air')"></label>
+        <p>Water</p>
+      </div>
+      <div class="col-sm-5ths col-md-5ths col-lg-5ths">
+        <input class="common-radio" type="radio" id="air"
+        ng-class="vm.wagesType=='air'?'wages-focus':''"
+         ng-click="vm.clickWages('air')" ng-model="vm.wages" value="air" >
+
+        <label class="fw-xlg fw-air" for="air"></label>
+        <p>Air</p>
+      </div>
+      <div class="col-sm-5ths col-md-5ths col-lg-5ths">
+
+        <input class="common-radio"
+        ng-class="vm.wagesType=='gas'?'wages-focus':''"
+         ng-click="vm.clickWages('gas')"
+         type="radio" id="gas" ng-model="vm.wages" value="gas">
+
+        <label class="fw-xlg fw-gas" for="gas"></label>
+        <p>Gas</p>
+      </div>
+      <div class="col-sm-5ths col-md-5ths col-lg-5ths">
+
+        <input class="common-radio"
+        ng-class="vm.wagesType=='elec'?'wages-focus':''"
+          ng-click="vm.clickWages('elec')"
+         type="radio" id="elec" ng-model="vm.wages" value="electricity">
+
+        <label class="fw-xlg fw-electricity" for="elec"></label>
+        <p>Electricity</p>
+      </div>
+      <div class="col-sm-5ths col-md-5ths col-lg-5ths">
+
+        <input class="common-radio"
+        ng-class="vm.wagesType=='steam'?'wages-focus':''"
+          ng-click="vm.clickWages('steam')"
+        type="radio" id="steam" ng-model="vm.wages" value="steam">
+
+        <label class="fw-xlg fw-steam" for="steam"></label>
+        <p>Steam</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+  <!-- <div class="col-lg-2 col-md-2 col-sm-12 padding-right-0">
+          <ul class="tree-view">
+            <li ng-repeat="(key,label) in vm.labels">
+              <i class="fa fa-plus" ng-class="{'active-minus':label.shown}"
+                ng-click="label.shown = !label.shown"></i>
+              <input type="checkbox" ng-model="label.selected" ng-click="vm.clicker(label);vm.getChecked()"> {{label.label}}
+              <ul ng-show="label.shown">
+                <li ng-repeat="artist in label.artists">
+                  <input type="checkbox" ng-model="artist.selected" ng-click="vm.getChecked()"> {{artist.artist}}
+                </li>
+              </ul>
+            </li>
+        </ul>
+      </div> -->
+      <div class="col-lg-12 col-md-12 col-xs-12 padding-0-12">
+    <div ng-init="vm.filterChart('#337ab7', year, month)" class=" specification-chart">
+
+      <div class="panel box-shadow  chart-container"  ng-class="{popup:vm.myModalFirst}"  role="button">
+
+        <div >
+
+           <div class="panel-body chart-header">
+             <label class="float-left">
+               <i class="fa fa-square icon" aria-hidden="true">
+               </i>Forecast by Consumption</label> <p class="float-right">
+                 <i ng-click="vm.maximize('consumption]')" class="fa fa-arrows-alt" aria-hidden="true"></i> </p></div>
+          <div id="container"></div>
+        </div>
+      </div>
+
+
+      <div class="panel box-shadow chart-container"  ng-class="{popup:vm.myModalSecond}" role="button">
+
+        <div>
+          <div class="panel-body chart-header"><label class="float-left">
+            <i class="fa fa-square icon" aria-hidden="true"></i>
+            Forecast by Cost</label> <p class="float-right">
+              <i ng-click="vm.maximize('cost')"  class="fa fa-arrows-alt" aria-hidden="true"></i> </p></div>
+          <div id="container1"></div>
+        </div>
+      </div>
+
+    </div>
+      </div>
+
+
+
+  </div>
+</div>

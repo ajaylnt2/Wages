@@ -1,0 +1,124 @@
+<main class="auth-main">
+  <div class="auth-block">
+    <h1 class="login-title">W.A.G.E.S</h1>
+    <div class="inner-block">
+      <!--  login form -->
+      <div ng-if="vm.showState=='login'">
+        <form class="login-form"  ng-submit="vm.login($event)">
+          <div class="input-group m-bottom16px">
+              <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+              <input name="userName" type="text" class="form-control" name="username" value="" ng-model="vm.user.userName" required placeholder="username or email">
+          </div>
+          <div class="input-group m-bottom16px">
+              <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+              <input name="password" type="password" class="form-control" name="password" placeholder="password" ng-model="vm.user.password" required>
+          </div>
+          <div class="m-bottom16px input-login float-left">
+              <span class="checkbox-tick">
+                <input type="checkbox" required value="1" id="remember-checkbox" name=""/>
+                <label for="remember-checkbox"></label>
+              </span>
+              <span class="remember-me"> Remember Me</span>
+          </div>
+          <a class="float-right input-login m-bottom16px" ng-click="vm.changeState('resetPassword')"><i> Forgot Password?</i></a>
+          <div class="input-group width100p m-bottom16px">
+            <button type="submit" class="width100p btn btn-primary login-btn">LOGIN</button>
+          </div>
+          <div class='alert alert-danger' ng-if="vm.loginError && vm.showState == 'login'">
+            <strong>{{vm.loginError}}</strong>
+          </div>
+        </form>
+      </div>
+      <!-- active  login form -->
+      <div ng-if="vm.showState=='activeLogin'">
+        <div class="group-addon-text">
+          <i class=" fw fw-active" ></i>
+        Sign In using your credentials for lnties.com
+        </div>
+        <form ng-submit="vm.activeLogin($event)">
+          <div class="input-group m-bottom16px">
+              <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+              <input name="userName" type="text" class="form-control" name="username" value="" ng-model="vm.user.userName" required placeholder="username or email">
+          </div>
+          <div class="input-group m-bottom16px">
+              <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+              <input name="password" type="password" class="form-control" name="password" placeholder="password" ng-model="vm.user.password" required>
+          </div>
+          <div class="input-group width100p m-bottom16px">
+            <button type="submit" class="width100p btn btn-primary login-btn">LOGIN</button>
+          </div>
+          <div class='alert alert-danger' ng-if="vm.loginError && vm.showState == 'activeLogin'">
+            <strong>{{vm.loginError}}</strong>
+          </div>
+        </form>
+      </div>
+      <!--  reset password form  -->
+      <div ng-if="vm.showState=='resetPassword'">
+        <form class=" reset-form"  ng-submit="vm.resetPassword($event)">
+          <div class="input-group m-bottom16px">
+              <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+              <input name="password" type="password" class="form-control" name="password" placeholder="new password" ng-model="vm.user.password" pattern=".{8,}" required title="Please enter 8 characters minimum">
+          </div>
+          <div class="input-group m-bottom16px">
+              <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+              <input name="password" type="password" class="form-control" name="password" placeholder="confirm password" ng-model="vm.user.confirm" pattern=".{8,}" required title="Please enter 8 characters minimum">
+          </div>
+          <label class="error-label" ng-if="vm.error">{{vm.error}}</label>
+          <div class="input-group width100p m-bottom16px">
+            <button type="submit" class="width100p btn btn-primary login-btn">Change Password</button>
+          </div>
+        </form>
+      </div>
+      <!-- register form -->
+      <div ng-if="vm.showState=='register'">
+        <form class=" register-form"  ng-submit="vm.register($event)" name="registerForm">
+          <div class="form-group">
+            <label class="col-sm-2 control-label">Name</label>
+            <div class="col-sm-10">
+              <input name="username" class="form-control" ng-model="vm.user.name" required>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label">Email</label>
+            <div class="col-sm-10">
+              <input name="email" class="form-control" ng-model="vm.user.email" pattern="[a-z][a-zA-Z0-9_]*(\.[a-zA-Z][a-zA-Z0-9_]*)?@[a-z][a-zA-Z-0-9]*\.[a-z]+(\.[a-z]+)?$"
+                      title="Invalid email address" required placeholder="Email">
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label">Password</label>
+            <div class="col-sm-10">
+              <input name="password" class="form-control" ng-model="vm.user.password" type="password" pattern=".{8,}" required>
+            </div>
+          </div>
+          <label class="error-label" ng-if="vm.error">{{vm.error}}</label>
+          <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+              <button type="submit" class="btn btn-default btn-auth">Register</button>
+            </div>
+          </div>
+        </form>
+      </div>
+      <div class="form-group">
+        <div class="m-bottom16px float-left">
+          <span class="login-with"> Login with:</span>
+        </div>
+        <div class="m-bottom16px float-left social-main">
+          <a  class=" fw-lg fw-fb social-login"></a>
+          <a  class=" fw-lg fw-twitter social-login"></a>
+          <a  class=" fw-lg fw-google social-login"></a>
+          <a  class=" fw-lg fw-ln social-login"></a>
+        </div>
+      </div>
+      <div class="form-group">
+        <div class="m-bottom16px float-left">
+          <span class="login-with"> Active Directory:</span>
+        </div>
+        <div class="float-left social-main">
+          <a  ng-click="vm.changeState('activeLogin')" ng-class="vm.showState=='activeLogin'?'fw-active-focus':'fw-active'" class=" fw-lg active-login" ></a>
+        </div>
+      </div>
+    </div>
+    <h4 class="text-center">Copyright W.A.G.E.S</h4>
+  </div>
+</main>

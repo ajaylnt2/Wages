@@ -1,0 +1,73 @@
+
+	{
+        "2016":{
+            "January":[
+            {
+                "SpConElectricity":0.13
+            }
+            ],
+            "February":[
+            {
+                "SpConElectricity":0.18
+            }
+            ],
+            "March":[
+            {
+                "SpConElectricity":0.20
+            }
+            ],
+             "April":[
+            {
+                "SpConElectricity":0.12
+            }
+            ],
+             "May":[
+            {
+                "SpConElectricity":0.19
+            }
+            ],
+             "June":[
+            {
+                "SpConElectricity":0.23
+            }
+            ]
+
+        },
+        "2017":{
+                "January":[
+                {
+                    "SpConElectricity":0.11
+                }
+                ],
+                 "February":[
+                {
+                    "SpConElectricity":0.18
+                }
+                ],
+                "March":[
+                {
+                    "SpConElectricity":0.23
+                }
+                ],
+                "April":[
+                {
+                    "SpConElectricity":0.20
+                }
+                ],
+                "May":[
+                {
+                    "SpConElectricity":0.20
+                }
+                ],
+                 "June":[
+                {
+                    "SpConElectricity":0.30
+                }
+                ]
+
+        }
+
+	}
+
+
+

@@ -1,0 +1,159 @@
+[
+	{
+		"code": "IN",
+		"Number Of Plants":"1",
+		"production":62155687,
+		"UtilityCost":8088808.56,
+		"Electricity":87319316,
+		"Water":58084,
+		"Gas":686794,
+		"Steam":"",
+		"Air:":"",
+		"Solidwaste":12687567,
+		"friends":[
+            {
+                "name": "Plant 1",
+                "production":62155687,
+				"UtilityCost":8088808.56,
+				"Electricity":87319316,
+				"Water":58084,
+				"Gas":686794,
+				"Steam":"",
+				"Air:":"",
+				"Solidwaste":12687567
+            }
+        ]
+	},
+	{
+		"code": "AU",
+		"Number Of Plants":"2",
+		"production":97644707,
+		"UtilityCost":19510949,
+		"Electricity":110525842,
+		"Water":149501,
+		"Gas":1699613,
+		"Steam":4215,
+		"Air:":54026,
+		"Solidwaste":16289237,
+		"friends":[
+            {
+                "name": "Plant 1",
+                "production":53266798,
+				"UtilityCost":9199919,
+				"Electricity":984304,
+				"Water":69195,
+				"Gas":790597,
+				"Steam":4215,
+				"Air:":54026,
+				"Solidwaste":1379848
+            },
+            {
+                "name": "Plant 2",
+                "production":44377909,
+				"UtilityCost":10311030,
+				"Electricity":109541538,
+				"Water":80306,
+				"Gas":909016,
+				"Steam":"",
+				"Air:":"",
+				"Solidwaste":14909389
+            }
+        ]
+	},
+
+	{
+		"code": "US",
+		"Number Of Plants":"4",
+		"production":337511638,
+		"UtilityCost":21244123.14,
+		"Electricity":238166154,
+		"Water":121190,
+		"Gas":1636066,
+		"Steam":20202,
+		"Air:":54975,
+		"Solidwaste":850221960,
+		"friends":[
+            {
+                "name": "Plant 1",
+                "production":97711243,
+				"UtilityCost":3644364.12,
+				"Electricity":42874872,
+				"Water":13640,
+				"Gas":242350,
+				"Steam":"",
+				"Air:":"",
+				"Solidwaste":8243923
+            },
+            {
+                "name": "Plant 2",
+                "production":88822354,
+				"UtilityCost":4755475.23,
+				"Electricity":53985983,
+				"Water":24751,
+				"Gas":353461,
+				"Steam":6734,
+				"Air:":18325,
+				"Solidwaste":829354834
+            },
+			  {
+                "name": "Plant 3",
+                "production":79933465,
+				"UtilityCost":5866586.34,
+				"Electricity":65097094,
+				"Water":35826,
+				"Gas":464572,
+				"Steam":7845,
+				"Air:":17214,
+				"Solidwaste":1046547
+            },
+            {
+                "name": "Plant 4",
+                "production":71044576,
+				"UtilityCost":6977697.45,
+				"Electricity":76208205,
+				"Water":46973,
+				"Gas":575683,
+				"Steam":5623,
+				"Air:":19436,
+				"Solidwaste":11576656
+            }
+        ]
+	},
+	{
+		"code": "RU",
+		"Number Of Plants":"2",
+		"production":48442693.64,
+		"UtilityCost":63247498.56,
+		"Electricity":12013829.8,
+		"Water":167217.81,
+		"Gas":1884098,
+		"Steam":10690,
+		"Air:":39427,
+		"Solidwaste":14946190.51,
+		"friends":[
+            {
+                "name": "Plant 1",
+                "production":10311030.78,
+				"UtilityCost":62155687,
+				"Electricity":10840336.8,
+				"Water":79104.81,
+				"Gas":897004,
+				"Steam":5623,
+				"Air:":19436,
+				"Solidwaste":14789290.51
+            },
+            {
+                "name": "Plant 2",
+                 "production":38131662.86,
+				"UtilityCost":1091811.56,
+				"Electricity":1173493,
+				"Water":88113,
+				"Gas":987094,
+				"Steam":5067,
+				"Air:":19991,
+				"Solidwaste":156900
+            }
+        ]
+	}
+
+]

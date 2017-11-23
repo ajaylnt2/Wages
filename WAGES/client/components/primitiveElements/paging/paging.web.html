@@ -1,0 +1,67 @@
+
+<div class="container paging" id="second">
+ <!-- Div  for Filter and Search Start-->
+  <div class="panel panel-default">
+
+      <div class="panel-heading-style">
+        <span class="badge-style badge-pill badge-default">Table Name</span>
+        <!--<input type="text" class="search-button-desktop" ng-model="search" placeholder="Search" />-->
+        <span class="tag lebel-size filter">
+
+        <span>Filtering</span>
+        <a><i class="remove glyphicon glyphicon glyphicon-filter glyphicon-white" data-toggle="modal" data-target="#myModaldetails"></i></a>
+        </span>
+     </div>
+<!-- Div  for Filter and Search Ends-->
+
+ <!-- Table Start-->
+  <div class="panel-body-style">
+      <table class="table table-paging table-header table-bordered table-success" ng-init="getColumnName(vm.columns)">
+          <thead>
+              <tr>
+                <th style="text-transform: capitalize;" ng-repeat="c in vm.columns" scope="col"><a ng-init="count = 0" href="#" class="table-paging sort-by" ng-click="count = count+1; orderByMe(c, count,reverseSort);reverseSort = !reverseSort">{{c}}</a></th>
+              </tr>
+          </thead>
+          <tbody class="hoverTable">
+          <tr ng-repeat="f in filteredTodos | filter: filterDataObject | filter:search  |orderBy:myOrderBy">
+          <td>{{f.name}}</td>
+          <td>{{f.age}}</td>
+          <td>{{f.designation}}</td>
+          </tr>
+          </tbody>
+     </table>
+     <!--<drop-down class="pull-left" options="vm.columnChartProperties.labels"> </drop-down>-->
+  <!-- Table Ends-->
+
+  <!-- Modal popup for Filtering-->
+ <div class="modal fade" id="myModaldetails" role="dialog">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Filtering</h4>
+        </div>
+        <div class="modal-body">
+           <p ng-repeat="i in allColumns track by $index" class="dynamic-col">
+                <span>{{i}}</span><input type="text" class="search-button" ng-model="getFilteredData[$index]" placeholder="{{i}}" />
+          </p>
+          <div class="modal-footer-style">
+              <button type="button" class="btn btn-primary" ng-click="onSubmit(vm.data)" data-dismiss="modal" ng-disabled="getFilteredData.length==0">Submit</button>
+              <button type="button" class="btn btn-danger" ng-click="clear()" data-dismiss="modal">Clear</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
+ <!-- Modal popup for Filtering Ends-->
+
+ <!-- Div  for Pagination Start-->
+<div  ng-init="vm.getData(vm.total, vm.page, vm.pagesize, vm.data)"></div>
+            <div  paging    page=vm.page    page-size=vm.pagesize    total=vm.total
+                ng-click=pageNumber(vm.page)    show-prev-next="true"    show-first-last="true" ng-hide="getLength > 0">
+            </div>
+</div>
+ <!-- Div  for Pagination Start-->
+</div>

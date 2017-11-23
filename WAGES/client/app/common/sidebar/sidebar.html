@@ -1,0 +1,49 @@
+
+
+<div class="collapse navbar-collapse navbar-ex1-collapse">
+    <ul class="nav navbar-nav side-nav nav-style">
+        <li ng-class="{ active: vm.isActive('/production')  }">
+            <a ui-sref="production"  ng-init="vm.getText('Summary')" ng-click="vm.getText('Summary')" >Summary</a>
+        </li>
+
+        <li ng-class="{ active: vm.isActive('/efficiency')}">
+            <a ui-sref="efficiency" ng-click="vm.getText('Energy Efficiency')"> Energy Efficiency</a>
+        </li>
+
+        <li ng-class="{ active: vm.isActive('/consumption')}" >
+            <a ui-sref="consumption" ng-click="vm.getText('Utility Consumption & Cost')">Utility Consumption & Cost</a>
+        </li>
+
+        <li ng-class="{ active: vm.isActive('/budgetedVsActual')}">
+            <a ui-sref="budgetedVsActual" ng-click="vm.getText('Budgeted Vs Actual')">Budgeted Vs Actual</a>
+        </li>
+
+        <li ng-class="{ active: vm.isActive('/forecast')}">
+            <a ui-sref="forecast"ng-click="vm.getText('Forecast')" >Forecast</a>
+
+        </li>
+
+        <!-- <li ng-class="{ active: vm.isActive('/dropdown')}">
+            <a href="javascript:;" data-toggle="collapse" data-target="#demo" ng-class="vm.isActive('/boilerPerformance')
+              ||vm.isActive('/dryerPerformance')
+              ||vm.isActive('/airCompressorPerformance')
+              ||vm.isActive('/chillerPerformance')
+               ?'drop-content':''">Performance<i class="fa fa-fw fa-caret-down"></i></a>
+            <ul id="demo" class="collapse">
+              <li ng-class="{ active: vm.isActive('/boilerPerformance')}">
+                  <a ui-sref="boilerPerformance"><span>Boiler Performance</span></a>
+              </li>
+              <li ng-class="{ active: vm.isActive('/dryerPerformance')}">
+                  <a ui-sref="dryerPerformance"><span>Dryer Performance</span></a>
+              </li>
+                <li ng-class="{ active: vm.isActive('/airCompressorPerformance')}">
+                    <a ui-sref="airCompressorPerformance"><span>Air Compressor Performance</span></a>
+                </li>
+                <li ng-class="{ active: vm.isActive('/chillerPerformance')}">
+                    <a ui-sref="chillerPerformance"><span>Chiller Performance</span></a>
+                </li>
+            </ul>
+        </li> -->
+
+    </ul>
+</div>

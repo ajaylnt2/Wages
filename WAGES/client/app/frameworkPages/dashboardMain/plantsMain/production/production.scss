@@ -1,0 +1,75 @@
+production{
+  .guage-content canvas{
+    border-bottom: 1px solid #333232;
+  border-right: 1px solid #333232;
+  }
+  .guage-content:last-child canvas{
+    border-bottom: 1px solid #333232;
+  border-right: none;
+  }
+  .canvas{
+    width:100%;
+  }
+ .panel-border{
+       border: solid;
+ }
+  .gauge-label{
+      text-align: center;
+      font-family: Myriadproregular;
+      font-size: 14px;
+      color: black;
+  }
+  .outerdetails .large {
+    line-height: 100%;
+    padding: 0px;
+    color: #DC143C;
+    text-align: center;
+}
+
+.para-text-style{
+      text-align: center;
+
+}
+.outerdetails {
+    padding:0px;
+    margin: 0px;
+}
+.chart-container{
+  padding: 15px 0 15px 0;
+}
+.chart-header{
+   padding-bottom: 0px;
+    padding-top: 0;
+    border-bottom: sol;
+    border-bottom: 2px solid #D2691E;
+    margin-bottom: 18px;
+}
+.icon{
+ color:gray;
+ margin-right: 5px;
+}
+.panel-fullscreen {
+    display: block;
+    z-index: 9999;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    overflow: auto;
+}
+
+.number-font{
+      font-size: 15px;
+    font-family: segoe-uib;
+
+}
+.box-shadow{
+  box-shadow: 10px 10px 5px 0px #999;
+  border: 1px solid black!important;
+}
+
+
+}

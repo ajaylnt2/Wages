@@ -1,0 +1,88 @@
+<!-- Navigation -->
+<nav class="navbar navbar-fixed-top" role="navigation">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <li class="sr-only">Toggle navigation</li>
+            <li class="icon-bar"></li>
+            <li class="icon-bar"></li>
+            <li class="icon-bar"></li>
+        </button>
+
+        <div class="hide_mobile">
+          <a class="navbar-brand" ui-sref="production">W.A.G.E.S.</a>
+            <a class="lnt-logo"></a>
+
+        </div>
+    </div>
+    <!-- Top Menu Items -->
+
+
+    <ul class="nav navbar-right top-nav pull-right">
+      <li  class="top-images ">
+        <a  ng-class="vm.isActive('/alerts')?'fw-alarm-active':'fw-alarm'" class="fw icons" >
+         </a>
+       </li>
+      <li ui-sref-active="active" class="top-images ">
+        <a ng-class="vm.isActive('/globalMain')||vm.isActive('/globalSummary')?'fw-globe-active':'fw-globe'"
+         class="fw icons" ui-sref="globalSummary">
+         </a>
+       </li>
+       <li ng-class="{active:
+         vm.isActive('/')||
+         vm.isActive('/plantsMain')||
+         vm.isActive('/production')||
+         vm.isActive('/efficiency')||
+         vm.isActive('/consumption') ||
+         vm.isActive('/chillerPerformance')||
+         vm.isActive('/dryerPerformance')||
+         vm.isActive('/budgetedVsActual') ||
+         vm.isActive('/boilerPerformance')||
+         vm.isActive('/forecast')||
+         vm.isActive('/airCompressorPerformance') }"
+        class="top-images">
+
+               <a ng-class="(vm.isActive('/globalMain')
+               || vm.isActive('/globalSummary')
+               || vm.isActive('/alerts'))
+               ?'fw-plant':'fw-plant-active'"  class="fw  icons" ui-sref="production">
+             </a>
+           </li>
+             <li>
+                      <a class="dropdown-toggle icons"  data-toggle="dropdown"><i class="fw fw-user icons"></i>  {{(vm.profile.displayName)?vm.profile.displayName:"WAGES ADMIN" }}  <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                     <li>
+                         <a><i class="fa fa-user"></i> Profile</a>
+                     </li>
+                     <li class="divider"></li>
+                     <li>
+                         <a href="" ng-click="vm.logoutClick()"><i class="fa fa-fw fa-power-off "></i> Log Out</a>
+                     </li>
+                 </ul>
+           </li>
+  </ul>
+    <!-- <div class="nav">
+
+        <div class="nav navbar-right ">
+
+            <li> </li>
+            <li>  </li>
+            <li>
+              </li>
+            <li>
+                     <a class="dropdown-toggle hide_mobile icons"  data-toggle="dropdown"><i class="fw fw-user icons"></i>  {{ vm.profile.displayName }}  <b class="caret"></b></a>
+                     <a class="dropdown-toggle hide_desktop icons"  data-toggle="dropdown"><i class="fw fw-user icons"></i><b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a><i class="fa fa-user"></i> Profile</a>
+                    </li>
+                    <li class="divider"></li>
+                    <li>
+                        <a href="" ng-click="vm.logoutClick()"><i class="fa fa-fw fa-power-off "></i> Log Out</a>
+                    </li>
+                </ul>
+          </li>
+        </div>
+
+    </div> -->
+</nav>

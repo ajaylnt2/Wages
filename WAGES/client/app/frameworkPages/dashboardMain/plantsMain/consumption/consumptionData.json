@@ -1,0 +1,354 @@
+
+	{
+	 "January":[
+            {
+                "labels": "Boiler",
+                "dataBar":0,
+                "dataLine":450
+            },
+            {
+                "labels": "Chilers",
+                "dataBar":100,
+                "dataLine":700
+            },
+            {
+                "labels": "Cooling Towers",
+                "dataBar":200,
+                "dataLine":790
+            },
+            {
+                "labels": "Processed Water",
+                "dataBar":300,
+                "dataLine":795
+            },
+            {
+                "labels": "Compressors",
+                "dataBar":400,
+                "dataLine":800
+            }
+
+          
+        ],
+        "February":[
+            {
+                "labels": "Boiler",
+                "dataBar":600,
+                "dataLine":450
+            },
+            {
+                "labels": "Chilers",
+                "dataBar":700,
+                "dataLine":700
+            },
+            {
+                "labels": "Cooling Towers",
+                "dataBar":700,
+                "dataLine":790
+            },
+            {
+                "labels": "Processed Water",
+                "dataBar":800,
+                "dataLine":795
+            },
+            {
+                "labels": "Compressors",
+                "dataBar":900,
+                "dataLine":800
+            }
+
+          
+        ],
+        "March":[
+            {
+                "labels": "Boiler",
+                "dataBar":101,
+                "dataLine":450
+            },
+            {
+                "labels": "Chilers",
+                "dataBar":105,
+                "dataLine":700
+            },
+            {
+                "labels": "Cooling Towers",
+                "dataBar":300,
+                "dataLine":790
+            },
+            {
+                "labels": "Processed Water",
+                "dataBar":500,
+                "dataLine":795
+            },
+            {
+                "labels": "Compressors",
+                "dataBar":600,
+                "dataLine":800
+            }
+
+          
+        ],
+        "April":[
+            {
+                "labels": "Boiler",
+                "dataBar":100,
+                "dataLine":450
+            },
+            {
+                "labels": "Chilers",
+                "dataBar":201,
+                "dataLine":700
+            },
+            {
+                "labels": "Cooling Towers",
+                "dataBar":308,
+                "dataLine":790
+            },
+            {
+                "labels": "Processed Water",
+                "dataBar":501,
+                "dataLine":795
+            },
+            {
+                "labels": "Compressors",
+                "dataBar":604,
+                "dataLine":800
+            }
+
+          
+        ],
+        "May":[
+            {
+                "labels": "Boiler",
+                "dataBar":105,
+                "dataLine":450
+            },
+            {
+                "labels": "Chilers",
+                "dataBar":300,
+                "dataLine":700
+            },
+            {
+                "labels": "Cooling Towers",
+                "dataBar":500,
+                "dataLine":790
+            },
+            {
+                "labels": "Processed Water",
+                "dataBar":600,
+                "dataLine":795
+            },
+            {
+                "labels": "Compressors",
+                "dataBar":700,
+                "dataLine":800
+            }
+
+          
+        ],
+        "June":[
+            {
+                "labels": "Boiler",
+                "dataBar":800,
+                "dataLine":450
+            },
+            {
+                "labels": "Chilers",
+                "dataBar":650,
+                "dataLine":700
+            },
+            {
+                "labels": "Cooling Towers",
+                "dataBar":550,
+                "dataLine":790
+            },
+            {
+                "labels": "Processed Water",
+                "dataBar":198,
+                "dataLine":795
+            },
+            {
+                "labels": "Compressors",
+                "dataBar":100,
+                "dataLine":800
+            }
+
+          
+        ],
+        "July":[
+            {
+                "labels": "Boiler",
+                "dataBar":501,
+                "dataLine":450
+            },
+            {
+                "labels": "Chilers",
+                "dataBar":604,
+                "dataLine":700
+            },
+            {
+                "labels": "Cooling Towers",
+                "dataBar":707,
+                "dataLine":790
+            },
+            {
+                "labels": "Processed Water",
+                "dataBar":809,
+                "dataLine":795
+            },
+            {
+                "labels": "Compressors",
+                "dataBar":903,
+                "dataLine":800
+            }
+
+          
+        ],
+        "August":[
+            {
+                "labels": "Boiler",
+                "dataBar":809,
+                "dataLine":450
+            },
+            {
+                "labels": "Chilers",
+                "dataBar":903,
+                "dataLine":700
+            },
+            {
+                "labels": "Cooling Towers",
+                "dataBar":100,
+                "dataLine":790
+            },
+            {
+                "labels": "Processed Water",
+                "dataBar":200,
+                "dataLine":795
+            },
+            {
+                "labels": "Compressors",
+                "dataBar":300,
+                "dataLine":800
+            }
+
+          
+        ],
+        "September":[
+            {
+                "labels": "Boiler",
+                "dataBar":0,
+                "dataLine":450
+            },
+            {
+                "labels": "Chilers",
+                "dataBar":200,
+                "dataLine":700
+            },
+            {
+                "labels": "Cooling Towers",
+                "dataBar":501,
+                "dataLine":790
+            },
+            {
+                "labels": "Processed Water",
+                "dataBar":604,
+                "dataLine":795
+            },
+            {
+                "labels": "Compressors",
+                "dataBar":707,
+                "dataLine":800
+            }
+
+          
+        ],
+        "October":[
+            {
+                "labels": "Boiler",
+                "dataBar":501,
+                "dataLine":450
+            },
+            {
+                "labels": "Chilers",
+                "dataBar":604,
+                "dataLine":700
+            },
+            {
+                "labels": "Cooling Towers",
+                "dataBar":707,
+                "dataLine":790
+            },
+            {
+                "labels": "Processed Water",
+                "dataBar":809,
+                "dataLine":795
+            },
+            {
+                "labels": "Compressors",
+                "dataBar":903,
+                "dataLine":800
+            }
+
+          
+        ],
+        "November":[
+            {
+                "labels": "Boiler",
+                "dataBar":707,
+                "dataLine":450
+            },
+            {
+                "labels": "Chilers",
+                "dataBar":809,
+                "dataLine":700
+            },
+            {
+                "labels": "Cooling Towers",
+                "dataBar":903,
+                "dataLine":790
+            },
+            {
+                "labels": "Processed Water",
+                "dataBar":100,
+                "dataLine":795
+            },
+            {
+                "labels": "Compressors",
+                "dataBar":200,
+                "dataLine":800
+            }
+
+          
+        ],
+	 "December":[
+            {
+                "labels": "Boilersssss",
+                "dataBar":800,
+                "dataLine":450
+            },
+            {
+                "labels": "Chilers",
+                "dataBar":900,
+                "dataLine":250
+            },
+            {
+                "labels": "Cooling Towers",
+                "dataBar":101,
+                "dataLine":350
+            },
+            {
+                "labels": "Processed Water",
+                "dataBar":105,
+                "dataLine":550
+            },
+            {
+                "labels": "Compressors",
+                "dataBar":300,
+                "dataLine":650
+            }
+
+        ]
+	}
+
+   
+
+	

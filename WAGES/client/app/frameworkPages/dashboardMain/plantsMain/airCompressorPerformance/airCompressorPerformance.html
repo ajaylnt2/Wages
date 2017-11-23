@@ -1,0 +1,168 @@
+<div class="airCompressor-container margin-top">
+  <div class="panel-group">
+    <div class="panel panel-default panel-border panel-color">
+      <div class="panel-body">
+            <a data-toggle="collapse" href="#collapse1" class="toggle-collapse">
+              <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i>
+            </a>
+            <div id="collapse1" class="panel-collapse collapse in">
+              <div class="row">
+                <div class="col-md-12 col-sm-12 padding-right-0">
+                <div class="block-content">
+                  <div class="row-fluid">
+                    <Label class="text-style">Base Year :</label>
+                    <p class="number-style">2016</p>
+                  </div>
+                  <div class="row-fluid">
+                    <Label class="text-style">Current Year :</label>
+                    <p class="number-style">2017</p>
+                  </div>
+                  <div class="row-fluid">
+                    <Label class="text-style">YTD Date :</label>
+                    <p class="number-style">July 2017</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+        <div class="row">
+            <!-- <div class="col-md-2 padding-right-0 col-sm-12">
+              <ul class="tree-view">
+                <li ng-repeat="(key,label) in vm.labels">
+                  <i class="fa fa-plus" ng-class="{'active-minus':label.shown}"
+                    ng-click="label.shown = !label.shown"></i>
+                  <input type="checkbox" ng-model="label.selected" ng-click="vm.clicker(label);vm.getChecked()"> {{label.label}}
+                  <ul ng-show="label.shown" class="child-list">
+                    <li ng-repeat="artist in label.artists">
+                      <input type="checkbox" ng-model="artist.selected" ng-click="vm.getChecked()"> {{artist.artist}}
+                    </li>
+                  </ul>
+                </li>
+                  <li ng-repeat="i in vm.recursiveChecked">{{i.artist}}</li>
+              </ul> -->
+                <!-- <div class="panel panel-default">
+                    <div class="panel-body text-center">
+                        <div class="form-group">
+                            <label for="{{vm.yearProperties.label}}">{{vm.yearProperties.label}}</label>
+                            <select class="form-control"
+                                placeholder={{vm.yearProperties.placeHolder}}
+                                ng-model="vm.yearProperties.model"
+                                ng-change="vm.filterChart('#456a76',vm.yearProperties.model,'All','All')"
+                                ng-options="o as o for o in vm.yearProperties.options">
+                            </select>
+                        </div>
+                        <div class="form-group" >
+                            <label for="{{vm.monthProperties.label}}">{{vm.monthProperties.label}}</label>
+                            <select class="form-control" ng-disabled=vm.yearProperties.model=='All' ? 'true' : 'false'
+                                placeholder={{vm.monthProperties.placeHolder}}
+                                ng-model="vm.monthProperties.model"
+                                ng-change="vm.filterChart('#FDB45C',vm.yearProperties.model,vm.monthProperties.model,'All')">
+                                <option ng-repeat="option in vm.monthProperties.options" value="{{option}}">
+                                  {{option}}
+                                </option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="{{vm.dayProperties.label}}">{{vm.dayProperties.label}}</label>
+                            <select class="form-control" ng-disabled="vm.disableDay"
+                                placeholder={{vm.dayProperties.placeHolder}}
+                                ng-model="vm.dayProperties.model"
+                                ng-change="vm.filterChart('#FDB45C',vm.yearProperties.model,vm.monthProperties.model,vm.dayProperties.model)">
+                                 <option ng-repeat="option in vm.dayProperties.options" value="{{option}}">
+                                   {{option}}
+                                 </option>
+                            </select>
+                        </div>
+                    </div>
+                </div> -->
+            <!-- </div> -->
+            <div class="col-md-12 col-sm-12">
+                    <div ng-init="vm.init('Water', '#456a76', 'All')" class="specification-chart">
+                        <div class="row">
+                          <div class="col-md-6">
+                              <div class="panel panel-default panel-default panel-border"
+                              role="button" ng-class="{popup:vm.myModalFirst}">
+
+                                 <div class="panel-body chart-container" >
+                                 <div>
+                                     <div class="panel-body chart-header"><label class="float-left">
+                                       <i class="fa fa-square icon" aria-hidden="true"></i>
+                                        Compressed Air Flow</label>
+                                        <p class="float-right" style="padding-left: 20px;">
+                                           <i ng-click="vm.maximize('air')"  class="fa fa-arrows-alt" aria-hidden="true"></i>
+                                         </p>
+
+                                     </div>
+                                 </div>
+                                 <div class="m-b-10 text-center chart-section chart chart-line" >
+                                   <angular-line-chart
+                                   class="half-chart"
+                                     colors="vm.chart1.colors"
+                                     labels="vm.airFlowProperties.labels"
+                                     series="vm.chart1.series"
+                                     data="vm.airFlowProperties.data"
+                                     options="vm.commonProperties.options">
+                                   </angular-line-chart>
+                                 </div>
+                                 </div>
+                               </div>
+                          </div>
+                          <div class="col-md-6">
+                              <div class="panel panel-default panel-default panel-border"
+                              role="button" ng-class="{popup:vm.myModalSecond}">
+                                 <div class="panel-body chart-container" >
+                                 <div>
+                                     <div class="panel-body chart-header"><label class="float-left">
+                                       <i class="fa fa-square icon" aria-hidden="true"></i>
+                                        Electricity Consumption</label>
+                                        <p class="float-right" style="padding-left: 20px;">
+                                           <i ng-click="vm.maximize('elect')" class="fa fa-arrows-alt" aria-hidden="true"></i>
+                                         </p>
+                                     </div>
+                                 </div>
+                                 <div class="m-b-10 text-center chart-section chart chart-line" >
+                                   <angular-line-chart
+                                   class="half-chart"
+                                    colors="vm.chart2.colors"
+                                    labels="vm.electricityConsumptionProperties.labels"
+                                    series="vm.chart2.series"
+                                    data="vm.electricityConsumptionProperties.data"
+                                    options="vm.commonProperties.options">
+                                   </angular-line-chart>
+                                 </div>
+                                 </div>
+                               </div>
+                          </div>
+                        </div>
+
+                         <div class="panel panel-default panel-default panel-border"
+                         role="button" ng-class="{popup:vm.myModalThird}">
+
+                            <div class="panel-body chart-container" >
+                            <div>
+                                <div class="panel-body chart-header"><label class="float-left">
+                                  <i class="fa fa-square icon" aria-hidden="true"></i>
+                                   Specific Power Consumption</label>
+                                   <p class="float-right" style="padding-left: 20px;">
+                                      <i ng-click="vm.maximize('power')" class="fa fa-arrows-alt" aria-hidden="true"></i>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="m-b-10 text-center chart-section chart chart-line" >
+                              <angular-line-chart
+                                 colors="vm.chart3.colors"
+                                 labels="vm.specificConsumptionProperties.labels"
+                                 series="vm.chart3.series"
+                                 data="vm.specificConsumptionProperties.data"
+                                 options="vm.commonProperties.options">
+                              </angular-line-chart>
+                            </div>
+                            </div>
+                          </div>
+              </div>
+            </div>
+          </div>
+</div>

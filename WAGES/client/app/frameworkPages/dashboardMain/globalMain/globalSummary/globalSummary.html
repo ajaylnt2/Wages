@@ -1,0 +1,73 @@
+
+                    <div class="container down-align col-md-12" ng-init="initChart()">
+                      <div class="col-md-8">
+                        <div id="container" class="global-summary"></div>
+                      </div>
+
+                      <div>
+                      <div class="rightColumn col-md-2">
+                        <h4 class="text-color Myriad-pro-Regular">Best Performing Plant</h4>
+                        <h2 class="best-text-color">US - Plant 3</h2>
+                        <h4 class="text-color">Least Performing Plant</h4>
+                        <h2 class="least-text-color">RU - Plant 2</h2>
+                      </div>
+                      </div>
+
+                        <div>
+                            <table class="table  table-header table-bordered" id="myTable" dnd-list dnd-drop="callback({targetList: tdata, targetIndex: index})">
+                                <thead class="font-family-global">
+                                    <tr>
+                                        <th rowspan="2"></th>
+                                        <th rowspan="2">Plants</th>
+                                        <!--<th colspan="3" class="consumption"></th>-->
+                                        <th rowspan="2">Production (MT)</th>
+                                        <th rowspan="2">Utility Cost</th>
+                                    </tr>
+                                    <tr>
+                                        <th>Electricity (kWh)</th>
+                                        <th>Water (Gal)</th>
+                                        <th>Gas (Scf)</th>
+                                        <th>Steam</th>
+                                        <th>Air</th>
+                                        <th>Solid Waste (MT)</th>
+                                    </tr>
+                                </thead>
+                                <tbody ng-repeat="tdata in googleMapTableData" class="hoverTable-global font-family-global">
+                                    <tr>
+                                        <td class="clickable" dnd-draggable="null" dnd-callback="onDrop(list, $index, targetList, targetIndex)">
+                                            {{item.labelFunc($index)}}
+                                            <i class="glyphicon glyphicon-chevron-right" data-ng-if="!tdata.expanded" data-ng-click="tdata.expanded = true"></i>
+                                            <i class="glyphicon glyphicon-chevron-down" data-ng-if="tdata.expanded" data-ng-click="tdata.expanded = false"></i>
+                                        </td>
+                                        <td>{{tdata.code}}</td>
+                                         <td>{{tdata.production}}</td>
+                                          <td>{{tdata.UtilityCost}}</td>
+                                          <td>{{tdata.Electricity}}</td>
+                                          <td>{{tdata.Water}}</td>
+                                          <td>{{tdata.Gas}}</td>
+                                          <td>{{tdata.Steam}}</td>
+                                          <td>{{tdata.Air}}</td>
+                                          <td>{{tdata.Solidwaste}}</td>
+                                    </tr>
+                                    <tr ng-if="tdata.expanded" ng-repeat="data in tdata.friends">
+                                       <td></td>
+                                          <td>{{data.name}}</td>
+                                          <td>{{data.production}}</td>
+                                          <td>{{data.UtilityCost}}</td>
+                                          <td>{{data.Electricity}}</td>
+                                          <td>{{data.Water}}</td>
+                                          <td>{{data.Gas}}</td>
+                                          <td>{{data.Steam}}</td>
+                                          <td>{{data.Air}}</td>
+                                          <td>{{data.Solidwaste}}</td>
+
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                        </div>
+                    </div>
+
+
+
+

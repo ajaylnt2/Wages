@@ -1,0 +1,19 @@
+
+
+.outerdetails{
+  $white: #ffffff;
+// $text-color: #101420;
+      padding: 0px 0px 0px 10px;
+    margin: 0px;
+    .small {
+    // color: $text-color;
+    font-size: 15px;        
+	}
+    .large {
+    // color: $text-color;    
+    font-size: 24px;    
+    line-height: 100%;
+    padding: 0px;
+	}
+}
+

@@ -1,0 +1,5238 @@
+
+	{
+        "2016":{
+            "January":[
+            {
+                
+                "labels": "Jan 1",
+                "data1":0.0000,
+                "data2":0.001,
+                "datapc":-0.6
+               
+            },
+            {
+                "labels": "Jan 2",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Jan 3",
+                "data1":0.0001,
+                "data2":0.003,
+                "datapc":-1.0
+            },
+            {
+                "labels": "Jan 4",
+                "data1":0.0004,
+                "data2":0.002,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Jan 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Jan 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Jan 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Jan 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Jan 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jan 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jan 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Jan 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Jan 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Jan 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jan 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jan 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Jan 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Jan 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jan 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jan 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Jan 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jan 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jan 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Jan 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Jan 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jan 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jan 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Jan 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jan 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Jan 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Jan 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+          
+        ],
+        "February":[
+          {
+                
+                "labels": "Feb 1",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-0.5
+               
+            },
+            {
+                "labels": "Feb 2",
+                "data1":0.0001,
+                "data2":0.001,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Feb 3",
+                "data1":0.0004,
+                "data2":0.003,
+                "datapc":-1.4
+            },
+            {
+                "labels": "Feb 4",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Feb 5",
+                "data1":0.0001,
+                "data2":0.001,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Feb 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.5
+            }
+            ,
+            {
+                "labels": "Feb 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Feb 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Feb 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Feb 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Feb 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Feb 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Feb 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Feb 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Feb 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Feb 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Feb 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Feb 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Feb 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Feb 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Feb 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Feb 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Feb 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Feb 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Feb 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Feb 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Feb 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Feb 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            
+          
+        ],
+        "March":[
+          {
+                
+                "labels": "Mar 1",
+                "data1":0.0006,
+                "data2":0.005,
+                "datapc":-0.3
+               
+            },
+            {
+                "labels": "Mar 2",
+                "data1":0.0006,
+                "data2":0.005,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Mar 3",
+                "data1":0.0001,
+                "data2":0.003,
+                "datapc":-1.3
+            },
+            {
+                "labels": "Mar 4",
+                "data1":0.0005,
+                "data2":0.003,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Mar 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Mar 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.3
+            }
+            ,
+            {
+                "labels": "Mar 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Mar 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Mar 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Mar 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Mar 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Mar 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Mar 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Mar 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Mar 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Mar 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Mar 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Mar 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Mar 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Mar 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Mar 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Mar 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Mar 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Mar 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Mar 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Mar 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Mar 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Mar 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Mar 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Mar 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Mar 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+          
+        ],
+        "April":[
+        {
+                
+                "labels": "Apr 1",
+                "data1":0.0000,
+                "data2":0.001,
+                "datapc":-0.3
+               
+            },
+            {
+                "labels": "Apr 2",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Apr 3",
+                "data1":0.0001,
+                "data2":0.003,
+                "datapc":-1.1
+            },
+            {
+                "labels": "Apr 4",
+                "data1":0.0004,
+                "data2":0.002,
+                "datapc":-0.4
+            },
+            {
+                "labels": "Apr 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Apr 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Apr 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Apr 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Apr 9",
+                "data1":0.0003,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Apr 10",
+                "data1":0.0005,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Apr 11",
+                "data1":0.0004,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Apr 12",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Apr 13",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Apr 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Apr 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Apr 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Apr 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Apr 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Apr 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Apr 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Apr 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Apr 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Apr 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Apr 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Apr 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Apr 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Apr 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Apr 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Apr 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Apr 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Apr 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+          
+        ],
+        "May":[
+           {
+                
+                "labels": "May 1",
+                "data1":0.0000,
+                "data2":0.001,
+                "datapc":-0.2
+               
+            },
+            {
+                "labels": "May 2",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-1.6
+                
+               
+            },
+            {
+                "labels": "May 3",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-1.2
+            },
+            {
+                "labels": "May 4",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-0.8
+            },
+            {
+                "labels": "May 5",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "May 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "May 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "May 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "May 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "May 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "May 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "May 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "May 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "May 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "May 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "May 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "May 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "May 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "May 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "May 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "May 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "May 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "May 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "May 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "May 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "May 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "May 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "May 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "May 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "May 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "May 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+          
+        ],
+        "June":[
+        {
+                
+                "labels": "Jun 1",
+                "data1":0.0000,
+                "data2":0.006,
+                "datapc":-0.2
+               
+            },
+            {
+                "labels": "Jun 2",
+                "data1":0.0002,
+                "data2":0.006,
+                "datapc":-1.3
+                
+               
+            },
+            {
+                "labels": "Jun 3",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":-1.0
+            },
+            {
+                "labels": "Jun 4",
+                "data1":0.0004,
+                "data2":0.001,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Jun 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jun 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Jun 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Jun 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jun 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.5
+            }
+            ,
+            {
+                "labels": "Jun 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jun 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Jun 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Jun 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Jun 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jun 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jun 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Jun 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Jun 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jun 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jun 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Jun 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jun 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jun 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Jun 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Jun 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jun 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jun 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Jun 28",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jun 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Jun 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Jun 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+        ],
+        "july":[
+        {
+                
+                "labels": "jul 1",
+                "data1":0.0000,
+                "data2":0.001,
+                "datapc":-0.3
+               
+            },
+            {
+                "labels": "jul 2",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-1.4
+                
+               
+            },
+            {
+                "labels": "jul 3",
+                "data1":0.0001,
+                "data2":0.003,
+                "datapc":-1.2
+            },
+            {
+                "labels": "jul 4",
+                "data1":0.0004,
+                "data2":0.002,
+                "datapc":-0.3
+            },
+            {
+                "labels": "jul 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.5
+            }
+            ,
+            {
+                "labels": "jul 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "jul 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0.1
+            }
+            ,
+            {
+                "labels": "jul 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "jul 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "jul 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "jul 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "jul 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "jul 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "jul 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "jul 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "jul 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "jul 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "jul 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "jul 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "jul 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "jul 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "jul 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "jul 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "jul 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "jul 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "jul 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "jul 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "jul 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "jul 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "jul 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "jul 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+          
+        ],
+        "August":[
+         {
+                
+                "labels": "Aug 1",
+                "data1":0.0006,
+                "data2":0.001,
+                "datapc":-0.6
+               
+            },
+            {
+                "labels": "Aug 2",
+                "data1":0.0002,
+                "data2":0.006,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Aug 3",
+                "data1":0.0005,
+                "data2":0.003,
+                "datapc":-1.0
+            },
+            {
+                "labels": "Aug 4",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Aug 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Aug 6",
+                "data1":0.0005,
+                "data2":0.003,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Aug 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Aug 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Aug 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Aug 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Aug 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Aug 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Aug 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Aug 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Aug 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Aug 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Aug 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Aug 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Aug 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Aug 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Aug 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Aug 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Aug 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Aug 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Aug 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Aug 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Aug 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Aug 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Aug 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Aug 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Aug 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+        ],
+        "September":[
+          {
+                
+                "labels": "Sept 1",
+                "data1":0.0000,
+                "data2":0.001,
+                "datapc":-0.6
+               
+            },
+            {
+                "labels": "Sept 2",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Sept 3",
+                "data1":0.0001,
+                "data2":0.005,
+                "datapc":-1.2
+            },
+            {
+                "labels": "Sept 4",
+                "data1":0.0004,
+                "data2":0.002,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Sept 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Sept 6",
+                "data1":0.0002,
+                "data2":0.004,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Sept 7",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Sept 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Sept 9",
+                "data1":0.0002,
+                "data2":0.000,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Sept 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Sept 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Sept 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Sept 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Sept 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Sept 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Sept 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Sept 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Sept 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Sept 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Sept 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Sept 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Sept 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Sept 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Sept 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Sept 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Sept 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Sept 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Sept 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Sept 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Sept 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Sept 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+        ],
+        "October":[
+        {
+                
+                "labels": "Oct 1",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.6
+               
+            },
+            {
+                "labels": "Oct 2",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Oct 3",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-1.5
+            },
+            {
+                "labels": "Oct 4",
+                "data1":0.0004,
+                "data2":0.002,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Oct 5",
+                "data1":0.0005,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Oct 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Oct 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Oct 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Oct 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Oct 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Oct 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Oct 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Oct 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Oct 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Oct 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Oct 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Oct 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Oct 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Oct 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Oct 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Oct 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Oct 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Oct 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Oct 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Oct 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Oct 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Oct 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Oct 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Oct 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Oct 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Oct 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+        ],
+        "November":[
+        {
+                
+                "labels": "Nov 1",
+                "data1":0.0000,
+                "data2":0.001,
+                "datapc":-0.6
+               
+            },
+            {
+                "labels": "Nov 2",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-1.3
+                
+               
+            },
+            {
+                "labels": "Nov 3",
+                "data1":0.0001,
+                "data2":0.003,
+                "datapc":-1.0
+            },
+            {
+                "labels": "Nov 4",
+                "data1":0.0004,
+                "data2":0.002,
+                "datapc":-0.2
+            },
+            {
+                "labels": "Nov 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Nov 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Nov 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Nov 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Nov 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Nov 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Nov 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.5
+            }
+            ,
+            {
+                "labels": "Nov 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Nov 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Nov 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Nov 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Nov 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Nov 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Nov 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Nov 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Nov 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Nov 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Nov 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Nov 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Nov 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Nov 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Nov 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Nov 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Nov 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Nov 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Nov 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Nov 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+
+        ],
+	 "December":[
+      {
+                
+                "labels": "Dec 1",
+                "data1":0.0000,
+                "data2":0.001,
+                "datapc":-0.6
+               
+            },
+            {
+                "labels": "Dec 2",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Dec 3",
+                "data1":0.0001,
+                "data2":0.003,
+                "datapc":-1.0
+            },
+            {
+                "labels": "Dec 4",
+                "data1":0.0004,
+                "data2":0.002,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Dec 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Dec 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Dec 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Dec 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Dec 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Dec 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Dec 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Dec 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Dec 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Dec 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Dec 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Dec 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Dec 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Dec 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Dec 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Dec 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Dec 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Dec 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Dec 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Dec 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Dec 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Dec 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Dec 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Dec 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Dec 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Dec 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Dec 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+        ]
+
+        },
+        "2017":{
+                        "January":[
+            {
+                
+                "labels": "Jan 1",
+                "data1":0.0000,
+                "data2":0.001,
+                "datapc":-0.6
+               
+            },
+            {
+                "labels": "Jan 2",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Jan 3",
+                "data1":0.0001,
+                "data2":0.003,
+                "datapc":-1.0
+            },
+            {
+                "labels": "Jan 4",
+                "data1":0.0004,
+                "data2":0.002,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Jan 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Jan 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Jan 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Jan 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Jan 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jan 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jan 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Jan 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Jan 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Jan 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jan 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jan 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Jan 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Jan 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jan 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jan 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Jan 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jan 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jan 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Jan 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Jan 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jan 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jan 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Jan 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jan 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Jan 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Jan 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+          
+        ],
+        "February":[
+          {
+                
+                "labels": "Feb 1",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-0.5
+               
+            },
+            {
+                "labels": "Feb 2",
+                "data1":0.0001,
+                "data2":0.001,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Feb 3",
+                "data1":0.0004,
+                "data2":0.003,
+                "datapc":-1.4
+            },
+            {
+                "labels": "Feb 4",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Feb 5",
+                "data1":0.0001,
+                "data2":0.001,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Feb 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.5
+            }
+            ,
+            {
+                "labels": "Feb 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Feb 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Feb 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Feb 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Feb 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Feb 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Feb 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Feb 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Feb 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Feb 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Feb 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Feb 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Feb 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Feb 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Feb 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Feb 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Feb 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Feb 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Feb 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Feb 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Feb 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Feb 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            
+          
+        ],
+        "March":[
+          {
+                
+                "labels": "Mar 1",
+                "data1":0.0006,
+                "data2":0.005,
+                "datapc":-0.3
+               
+            },
+            {
+                "labels": "Mar 2",
+                "data1":0.0006,
+                "data2":0.005,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Mar 3",
+                "data1":0.0001,
+                "data2":0.003,
+                "datapc":-1.3
+            },
+            {
+                "labels": "Mar 4",
+                "data1":0.0005,
+                "data2":0.003,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Mar 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Mar 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.3
+            }
+            ,
+            {
+                "labels": "Mar 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Mar 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Mar 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Mar 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Mar 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Mar 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Mar 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Mar 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Mar 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Mar 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Mar 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Mar 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Mar 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Mar 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Mar 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Mar 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Mar 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Mar 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Mar 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Mar 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Mar 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Mar 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Mar 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Mar 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Mar 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+          
+        ],
+        "April":[
+        {
+                
+                "labels": "Apr 1",
+                "data1":0.0000,
+                "data2":0.001,
+                "datapc":-0.3
+               
+            },
+            {
+                "labels": "Apr 2",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Apr 3",
+                "data1":0.0001,
+                "data2":0.003,
+                "datapc":-1.1
+            },
+            {
+                "labels": "Apr 4",
+                "data1":0.0004,
+                "data2":0.002,
+                "datapc":-0.4
+            },
+            {
+                "labels": "Apr 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Apr 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Apr 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Apr 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Apr 9",
+                "data1":0.0003,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Apr 10",
+                "data1":0.0005,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Apr 11",
+                "data1":0.0004,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Apr 12",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Apr 13",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Apr 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Apr 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Apr 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Apr 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Apr 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Apr 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Apr 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Apr 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Apr 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Apr 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Apr 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Apr 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Apr 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Apr 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Apr 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Apr 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Apr 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Apr 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+          
+        ],
+        "May":[
+           {
+                
+                "labels": "May 1",
+                "data1":0.0000,
+                "data2":0.001,
+                "datapc":-0.2
+               
+            },
+            {
+                "labels": "May 2",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-1.6
+                
+               
+            },
+            {
+                "labels": "May 3",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-1.2
+            },
+            {
+                "labels": "May 4",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-0.8
+            },
+            {
+                "labels": "May 5",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "May 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "May 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "May 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "May 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "May 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "May 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "May 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "May 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "May 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "May 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "May 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "May 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "May 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "May 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "May 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "May 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "May 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "May 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "May 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "May 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "May 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "May 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "May 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "May 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "May 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "May 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+          
+        ],
+        "June":[
+        {
+                
+                "labels": "Jun 1",
+                "data1":0.0000,
+                "data2":0.006,
+                "datapc":-0.2
+               
+            },
+            {
+                "labels": "Jun 2",
+                "data1":0.0002,
+                "data2":0.006,
+                "datapc":-1.3
+                
+               
+            },
+            {
+                "labels": "Jun 3",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":-1.0
+            },
+            {
+                "labels": "Jun 4",
+                "data1":0.0004,
+                "data2":0.001,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Jun 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jun 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Jun 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Jun 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jun 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.5
+            }
+            ,
+            {
+                "labels": "Jun 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jun 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Jun 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Jun 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Jun 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jun 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jun 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Jun 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Jun 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jun 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jun 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Jun 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jun 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jun 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Jun 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Jun 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jun 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Jun 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Jun 28",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Jun 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Jun 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Jun 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+        ],
+        "july":[
+        {
+                
+                "labels": "jul 1",
+                "data1":0.0000,
+                "data2":0.001,
+                "datapc":-0.3
+               
+            },
+            {
+                "labels": "jul 2",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-1.4
+                
+               
+            },
+            {
+                "labels": "jul 3",
+                "data1":0.0001,
+                "data2":0.003,
+                "datapc":-1.2
+            },
+            {
+                "labels": "jul 4",
+                "data1":0.0004,
+                "data2":0.002,
+                "datapc":-0.3
+            },
+            {
+                "labels": "jul 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.5
+            }
+            ,
+            {
+                "labels": "jul 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "jul 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0.1
+            }
+            ,
+            {
+                "labels": "jul 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "jul 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "jul 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "jul 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "jul 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "jul 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "jul 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "jul 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "jul 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "jul 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "jul 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "jul 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "jul 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "jul 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "jul 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "jul 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "jul 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "jul 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "jul 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "jul 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "jul 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "jul 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "jul 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "jul 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+          
+        ],
+        "August":[
+         {
+                
+                "labels": "Aug 1",
+                "data1":0.0006,
+                "data2":0.001,
+                "datapc":-0.6
+               
+            },
+            {
+                "labels": "Aug 2",
+                "data1":0.0002,
+                "data2":0.006,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Aug 3",
+                "data1":0.0005,
+                "data2":0.003,
+                "datapc":-1.0
+            },
+            {
+                "labels": "Aug 4",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Aug 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Aug 6",
+                "data1":0.0005,
+                "data2":0.003,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Aug 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Aug 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Aug 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Aug 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Aug 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Aug 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Aug 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Aug 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Aug 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Aug 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Aug 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Aug 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Aug 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Aug 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Aug 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Aug 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Aug 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Aug 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Aug 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Aug 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Aug 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Aug 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Aug 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Aug 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Aug 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+        ],
+        "September":[
+          {
+                
+                "labels": "Sept 1",
+                "data1":0.0000,
+                "data2":0.001,
+                "datapc":-0.6
+               
+            },
+            {
+                "labels": "Sept 2",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Sept 3",
+                "data1":0.0001,
+                "data2":0.005,
+                "datapc":-1.2
+            },
+            {
+                "labels": "Sept 4",
+                "data1":0.0004,
+                "data2":0.002,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Sept 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Sept 6",
+                "data1":0.0002,
+                "data2":0.004,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Sept 7",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Sept 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Sept 9",
+                "data1":0.0002,
+                "data2":0.000,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Sept 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Sept 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Sept 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Sept 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Sept 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Sept 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Sept 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Sept 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Sept 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Sept 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Sept 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Sept 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Sept 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Sept 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Sept 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Sept 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Sept 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Sept 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Sept 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Sept 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Sept 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Sept 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+        ],
+        "October":[
+        {
+                
+                "labels": "Oct 1",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.6
+               
+            },
+            {
+                "labels": "Oct 2",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Oct 3",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-1.5
+            },
+            {
+                "labels": "Oct 4",
+                "data1":0.0004,
+                "data2":0.002,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Oct 5",
+                "data1":0.0005,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Oct 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Oct 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Oct 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Oct 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Oct 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Oct 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Oct 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Oct 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Oct 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Oct 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Oct 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Oct 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Oct 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Oct 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Oct 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Oct 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Oct 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Oct 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Oct 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Oct 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Oct 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Oct 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Oct 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Oct 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Oct 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+        ],
+        "November":[
+        {
+                
+                "labels": "Nov 1",
+                "data1":0.0000,
+                "data2":0.001,
+                "datapc":-0.6
+               
+            },
+            {
+                "labels": "Nov 2",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-1.3
+                
+               
+            },
+            {
+                "labels": "Nov 3",
+                "data1":0.0001,
+                "data2":0.003,
+                "datapc":-1.0
+            },
+            {
+                "labels": "Nov 4",
+                "data1":0.0004,
+                "data2":0.002,
+                "datapc":-0.2
+            },
+            {
+                "labels": "Nov 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Nov 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Nov 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Nov 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Nov 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Nov 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Nov 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.5
+            }
+            ,
+            {
+                "labels": "Nov 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Nov 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Nov 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Nov 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Nov 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Nov 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Nov 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Nov 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Nov 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Nov 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Nov 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Nov 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Nov 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Nov 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Nov 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Nov 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Nov 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Nov 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Nov 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Nov 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+
+        ],
+	 "December":[
+      {
+                
+                "labels": "Dec 1",
+                "data1":0.0000,
+                "data2":0.001,
+                "datapc":-0.6
+               
+            },
+            {
+                "labels": "Dec 2",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-1.2
+                
+               
+            },
+            {
+                "labels": "Dec 3",
+                "data1":0.0001,
+                "data2":0.003,
+                "datapc":-1.0
+            },
+            {
+                "labels": "Dec 4",
+                "data1":0.0004,
+                "data2":0.002,
+                "datapc":-0.8
+            },
+            {
+                "labels": "Dec 5",
+                "data1":0.0005,
+                "data2":0.001,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Dec 6",
+                "data1":0.0005,
+                "data2":0.004,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Dec 7",
+                "data1":0.0002,
+                "data2":0.005,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Dec 8",
+                "data1":0.0003,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Dec 9",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Dec 10",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Dec 11",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Dec 12",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "Dec 13",
+                "data1":0.0004,
+                "data2":0.004,
+                "datapc":-0.8
+            }
+            ,
+            {
+                "labels": "Dec 14",
+                "data1":0.0005,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Dec 15",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Dec 16",
+                "data1":0.0000,
+                "data2":0.003,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Dec 17",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Dec 18",
+                "data1":0.0001,
+                "data2":0.004,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Dec 19",
+                "data1":0.0004,
+                "data2":0.005,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Dec 20",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Dec 21",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Dec 22",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Dec 23",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Dec 24",
+                "data1":0.0001,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+            ,
+            {
+                "labels": "Dec 25",
+                "data1":0.0004,
+                "data2": 0.003,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Dec 26",
+                "data1":0.0002,
+                "data2":0.002,
+                "datapc":-0.4
+            }
+            ,
+            {
+                "labels": "Dec 27",
+                "data1":0.0003,
+                "data2":0.001,
+                "datapc":-0.6
+            }
+            ,
+            {
+                "labels": "Dec 28",
+                "data1":0.0002,
+                "data2":0.003,
+                "datapc":-1.2
+            }
+            ,
+            {
+                "labels": "Dec 29",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.1
+            }
+            ,
+            {
+                "labels": "Dec 30",
+                "data1":0.0002,
+                "data2":0.001,
+                "datapc":-1.0
+            }
+            ,
+            {
+                "labels": "Dec 31",
+                "data1":0.0005,
+                "data2":0.002,
+                "datapc":-0.2
+            }
+
+        ]
+
+        }
+	 
+	}
+
+   
+
+	

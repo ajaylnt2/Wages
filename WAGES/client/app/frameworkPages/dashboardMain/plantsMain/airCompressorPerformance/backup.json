@@ -1,0 +1,5275 @@
+
+	{
+        "2016":{
+            "Jan":[
+
+            {
+
+                "labels": "1",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":50.5,
+                "data2":36.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":15.1
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":15.1
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":15.1
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":15.1,
+                "datapc":15.1
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":15.1,
+                "data2":10.9,
+                "datapc":15.1
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":15.1
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":15.1,
+                "data2":25.5,
+                "datapc":15.1
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+
+        ],
+        "Feb":[
+          {
+
+                "labels": "1",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":15.1,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+        ],
+        "Mar":[
+          {
+
+                "labels": "1",
+                "data1":20.2,
+                "data2":50.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":20.2,
+                "data2":50.5,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":50.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+
+        ],
+        "Apr":[
+        {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":10.9,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":15.1,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+
+        ],
+        "May":[
+           {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+        ],
+        "Jun":[
+        {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":20.2,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":20.3,
+                "data2":20.2,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":25.5,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+        ],
+        "Jul":[
+        {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0.1
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+
+        ],
+        "Aug":[
+         {
+
+                "labels": "1",
+                "data1":20.2,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":20.3,
+                "data2":20.2,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":50.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+        ],
+        "Sep":[
+          {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":50.5,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":20.3,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+        ],
+        "Oct":[
+        {
+
+                "labels": "1",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+        ],
+        "Nov":[
+        {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+
+        ],
+	 "Dec":[
+      {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+        ]
+
+        },
+        "2017":{
+            "Jan":[
+            {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+
+        ],
+        "Feb":[
+          {
+
+                "labels": "1",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":15.1,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+        ],
+        "Mar":[
+          {
+
+                "labels": "1",
+                "data1":20.2,
+                "data2":50.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":20.2,
+                "data2":50.5,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":50.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+
+        ],
+        "Apr":[
+        {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":10.9,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":15.1,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+
+        ],
+        "May":[
+           {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+        ],
+        "Jun":[
+        {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":20.2,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":20.3,
+                "data2":20.2,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":25.5,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+        ],
+        "Jul":[
+        {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0.1
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+
+        ],
+        "Aug":[
+         {
+
+                "labels": "1",
+                "data1":20.2,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":20.3,
+                "data2":20.2,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":50.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+        ],
+        "Sep":[
+          {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":50.5,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":20.3,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":15.1,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+        ],
+        "Oct":[
+        {
+
+                "labels": "1",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+        ],
+        "Nov":[
+        {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+
+
+        ],
+	 "Dec":[
+      {
+
+                "labels": "1",
+                "data1":25.5,
+                "data2":25.5,
+                "datapc":20.3
+
+            },
+            {
+                "labels": "2",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+
+
+            },
+            {
+                "labels": "3",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            },
+            {
+                "labels": "4",
+                "data1":15.1,
+                "data2":20.3,
+                "datapc":20.3
+            },
+            {
+                "labels": "5",
+                "data1":50.5,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "6",
+                "data1":50.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "7",
+                "data1":20.3,
+                "data2":50.5,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "8",
+                "data1":10.9,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "9",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "10",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "11",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "12",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":0
+            }
+            ,
+            {
+                "labels": "13",
+                "data1":15.1,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "14",
+                "data1":50.5,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "15",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "16",
+                "data1":25.5,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "17",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "18",
+                "data1":25.5,
+                "data2":15.1,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "19",
+                "data1":15.1,
+                "data2":50.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "20",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "21",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "22",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "23",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "24",
+                "data1":25.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "25",
+                "data1":15.1,
+                "data2": 10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "26",
+                "data1":20.3,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "27",
+                "data1":10.9,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "28",
+                "data1":20.3,
+                "data2":10.9,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "29",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "30",
+                "data1":20.3,
+                "data2":25.5,
+                "datapc":20.3
+            }
+            ,
+            {
+                "labels": "31",
+                "data1":50.5,
+                "data2":20.3,
+                "datapc":50.3
+            }
+
+        ]
+
+        }
+
+	}

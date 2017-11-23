@@ -1,0 +1,134 @@
+login-element{
+  .auth-main {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+  }
+  .auth-block {
+    width: 488px;
+    margin: 0 auto;
+  }
+
+  .auth-block h1{
+    text-align: center;
+  }
+
+  .login-title{
+    margin-bottom: 0px !important;
+    font-size: 72px !important;
+  }
+
+  .inner-block{
+    border-radius: 5px;
+    background: #2a3f54;
+    color: #fff;
+    padding: 43px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    float: left;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 5px #888888;
+  }
+
+  .input-group span, .input-group input{
+    background: #2a3f54;
+    height: 58px;
+    border: 2px solid #c4c4c4;
+    font-size: 16px;
+  }
+
+  .input-group span{
+    border-right: none !important;
+  }
+
+  .input-group input{
+    border-left: none !important;
+  }
+
+  .input-group-addon{
+    color: #c4c4c4 !important;
+  }
+
+  .input-login{
+    display:table;
+    position: relative;
+    color: #c4c4c4 !important;
+  }
+
+  
+  .login-btn{
+    height: 44px;
+    background: #fff !important;
+    color: #000;
+    font-weight: bold;
+  }
+
+  .login-btn:hover,.login-btn:active:hover,.login-btn:active,.login-btn:focus{
+    background: #fff !important;
+    color: #000;
+  }
+
+  .group-addon-text{
+    color: #c4c4c4 !important;
+    font-size: 19px;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+
+  .login-with{
+    position: relative;
+    top: 12px;
+  }
+
+  .social-login,.active-login{
+
+    margin-right: 17px;
+  }
+
+  @media(max-width:767px) {
+    .social-main{
+      width: 100%;
+    }
+  }
+  @media(min-width:768px) {
+    .social-login:first-child{
+      margin-left:60px;
+    }
+    .active-login:first-child{
+      margin-left:27px;
+    }
+  }
+  .remember-me{
+    position: relative;
+    bottom: 4px;
+    padding-left: 10px;
+  }
+
+
+  .text-center{
+    text-align: center;
+  }
+
+  .btn-auth{
+    color:#fff;
+  }
+
+  button.btn.btn-default {
+    border-width: 1px;
+    background: transparent;
+    border-color: #d6d6d6;
+  }
+
+  .group-addon i{
+    font-size: 43px;
+  }
+
+  .m-bottom16px{
+    margin-bottom: 16px;
+  }
+}

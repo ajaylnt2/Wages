@@ -1,0 +1,44 @@
+globalSummary{
+
+           table .collapse.in {
+			display:table-row;
+			.hoverTable-global{
+					width:100%;
+					border-collapse:collapse;
+				}
+			.hoverTable-global td{
+				padding:7px; border:1px solid #DDD;
+				}
+			/* Define the default color for all the table rows */
+			.hoverTable-global tr{
+				background: #FFFFFF;
+			}
+			/* Define the hover highlight color for the table row */
+			.hoverTable-global tr:hover {
+				background-color: 1px solid #CCC
+			}
+		  }
+
+     }
+	 .font-family-global{
+		 font-family: Myriad-pro-Regular;
+	 }
+	 .down-align{
+				margin-top:50px;
+			}
+	 .text-color{color: #000000; padding-top: 61px;font-family: Myriad-pro-Regular;}
+	 .best-text-color{color:#32CD32; padding-bottom:20px;}
+	 .least-text-color{color:#FF6347;padding-bottom: 81px;}
+	.rightColumn {
+    text-align: center;
+    border: 1px solid #ccc;
+    background-color: #ffffff;
+    box-shadow: 8px 0px 25px 3px #888888;
+    left: 200px;
+}
+
+
+
+
+
+

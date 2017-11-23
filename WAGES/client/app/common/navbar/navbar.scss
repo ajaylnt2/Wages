@@ -1,0 +1,42 @@
+navbar{
+  .navbar{
+    border-bottom: 1px solid #222;
+    background: #fff;
+    margin-bottom:0;
+  }
+  .lnt-logo{
+    background-image: url(../../../images/lnt.png);
+    background-position: 0;
+    height: 50px;
+    width: 50px;
+    float: left;
+  }
+  .navbar-right>.active {
+    background: #333232;
+  }
+  .navbar-toggle .icon-bar {
+    background: grey;
+  }
+  .navbar-brand{
+    color: #f2f2f2;
+    background: #189218;
+    width: 120px;
+  }
+  .navbar-right {
+    float: right!important;
+  }
+  .top-nav>li>a {
+    padding: 0px;
+    color: #999;
+  }
+  .icons{
+    margin-left:0;
+    margin-right: 0;
+  }
+  @media (max-width: 767px){
+    .hide_mobile{display:none;padding-right: 17px;}
+  }
+  @media (min-width: 768px){
+    .hide_desktop{display:none}
+  }
+}

@@ -1,0 +1,58 @@
+<div class="collapse navbar-collapse navbar-ex1-collapse">
+    <div class="nav navbar-nav right-side-nav nav-style">
+      <div  class="margin-10  border-bottom-white">
+       <div class="row-fluid">
+           <select class="form-control" ng-model="vm.plants.model" ng-options="o as o for o in vm.plants.options">
+           </select>
+       </div>
+      </div>
+      <div class="margin-10  border-bottom-white">
+      <ul class="tree-view">
+        <li ng-repeat="(key,label) in vm.labels">
+          <i class="fa fa-plus" ng-class="{'active-minus':label.shown}" ng-click="label.shown = !label.shown"></i>
+          <input type="checkbox" ng-model="label.selected" ng-click="vm.clicker(label,'parent');vm.getChecked('parent')"> {{label.label}}
+          <ul ng-show="label.shown" class="child-list">
+            <li ng-repeat="artist in label.artists">
+              <i class="fa fa-plus" ng-class="{'active-minus':artist.shown}" ng-click="artist.shown = !artist.shown"></i>
+              <input type="checkbox" ng-model="artist.selected" ng-click="vm.clicker(artist,'child');vm.getChecked('child')"> {{artist.artist}}
+               <ul ng-show="artist.shown" class="child-list">
+                <li ng-repeat="dept in artist.departments">
+                  <input type="checkbox" ng-model="dept.selected" ng-click="vm.getChecked('gchild')"> {{dept.artist}}
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <!-- <li ng-repeat="i in vm.recursiveChecked[0].artists">
+          <ul ng-repeat="j in i.departments">
+            <li>
+          {{j.artist}}</li>
+        </li> -->
+      </ul>
+      </ul>
+    </div>
+      <div class="margin-10  border-bottom-white">
+        <div class="row-fluid" ng-if="vm.yearProperties">
+          <Label class="text-style" >Yearly :</label>
+          <select class="form-control" placeholder={{vm.yearProperties.placeHolder}}
+          ng-model="vm.yearProperties.model" ng-change="vm.filterChart(vm.yearProperties.model, 'All')"
+          ng-options="o as o for o in vm.yearProperties.options">
+          </select>
+        </div>
+        <div class="row-fluid" ng-if="vm.monthProperties">
+          <Label class="text-style" >Monthly :</label>
+          <select class="form-control" ng-disabled=vm.yearProperties.model=='All' ? 'true' : 'false' placeholder={{vm.monthProperties.placeHolder}}
+          ng-model="vm.monthProperties.model" ng-change="vm.filterChart(vm.yearProperties.model, vm.monthProperties.model,'All')"
+          ng-options="o as o for o in vm.monthProperties.options">
+          </select>
+        </div>
+        <div class="row-fluid" ng-if="vm.dayProperties">
+          <Label class="text-style" >Daily :</label>
+          <select class="form-control" ng-disabled="vm.disableDay" placeholder={{vm.dayProperties.placeHolder}}
+          ng-model="vm.dayProperties.model" ng-change="vm.filterChart(vm.yearProperties.model, vm.monthProperties.model,vm.dayProperties.model)"
+          ng-options="o as o for o in vm.dayProperties.options">
+          </select>
+        </div>
+      </div>
+    </div>
+</div>
